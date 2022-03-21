@@ -38,4 +38,4 @@
   * After:
   ![type after](https://github.com/allisonorourke-ufGfGy/School_District_Analysis/blob/main/Images/type%20after.png)
 ## Summary
-#### There were a couple of key changes that happened after we removed the corrupt data. When we removed the corrupt data, all of the percentage passings for THS went down to see that there was a .3% drop in the overall passing grade.
+#### There were a couple of key changes that happened after we removed the corrupt data. When we removed the corrupt data, all of the percentage passings for THS went down to see that there was a .3% drop in the overall passing grade. One of the largest affects this data removal had was on the overall passing percentage of the specific spending group ($631-$645) which went from 62.85% to 66.0%. It had a much smaller affect on the school size analysis and the charter vd district analysis. For the medium size schools there was less than a .1 percent change going from 90.92% overall passing rate to 90.55%. It did not have much affect of the charter schools as it went from an overall passing rate of 90.43% to 90.39%.
