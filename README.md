@@ -38,4 +38,4 @@
   * After:
   ![type after](https://github.com/allisonorourke-ufGfGy/School_District_Analysis/blob/main/Images/type%20after.png)
 ## Summary
-
+#### There were a couple of key changes that happened after we removed the corrupt data.
