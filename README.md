@@ -13,8 +13,8 @@
 * Before the removal of the corrupt grades, THS was the second highest preforming school in the district. After the removal, THS becomes the lowest rated school.
 #### How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade : Only the 9th grade score was affected. All of the other grades (10th, 11th, and 12th) had no impact. Previously the math and reading scores for the 9th graders at THS was 85.6% but then this went down to null after the removal. The overall passing scores for 9th graders among the district consequently also went down.
-* Scores by school spending : 
-* Scores by school size : 
+* Scores by school spending : THS is in the range of $631 - $645 spent per student. Before the removal the overall percent passing for this spending range was 62.85%. After the removal, the score for that category went up to 66.0%.
+* Scores by school size : THS is a medium sized school (1000-1999 student). Before the removal the overall passing score was 90.62%. After the removal of the data, the score went down to 90.55%.
 * Scores by school type : Before the removal of the corrupt data, the top 5 schools were all Charter schools and the bottom 5 were all District Schools. After the removal of the data, THS fell down in standing and they were moved into the bottom 5. After the removal the bottom 5 schools now had a Charter school. 
 ## Summary
 
