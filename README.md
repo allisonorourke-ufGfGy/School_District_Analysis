@@ -15,6 +15,8 @@
 * Math and reading scores by grade : Only the 9th grade score was affected. All of the other grades (10th, 11th, and 12th) had no impact. Previously the math and reading scores for the 9th graders at THS was 85.6% but then this went down to null after the removal. The overall passing scores for 9th graders among the district consequently also went down.
 * Scores by school spending : THS is in the range of $631 - $645 spent per student. Before the removal the overall percent passing for this spending range was 62.85%. After the removal, the score for that category went up to 66.0%.
 * Scores by school size : THS is a medium sized school (1000-1999 student). Before the removal the overall passing score was 90.62%. After the removal of the data, the score went down to 90.55%.
+  * Before :
+  ![Size Before](https://github.com/allisonorourke-ufGfGy/School_District_Analysis/blob/main/Images/size%20before.png)
 * Scores by school type : Before the removal of the corrupt data, Charter schools had an overall passing rate of 90.43%. After the removal this went down to 90.39 % for charter schools. 
 ## Summary
 
