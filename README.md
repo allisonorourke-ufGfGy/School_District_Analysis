@@ -38,4 +38,4 @@
   * After:
   ![type after](https://github.com/allisonorourke-ufGfGy/School_District_Analysis/blob/main/Images/type%20after.png)
 ## Summary
-#### There were a couple of key changes that happened after we removed the corrupt data.
+#### There were a couple of key changes that happened after we removed the corrupt data. When we removed the corrupt data, all of the percentage passings for THS went down to see that there was a .3% drop in the overall passing grade.
