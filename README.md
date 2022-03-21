@@ -10,7 +10,7 @@
 #### How is the school summary affected?
 * For THS, the % Passing Math and % Passing reading scored for THS went from 93.27% to 66.9% and 93.31% to 69.66%, though the % Overall Passing went from 90.94% to 90.63%.
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-*
+* Before and after the removal of the 9th grade score, THS stayed in the second place position among all of the schools. It did not seem to have much affect on the standing of the school.
 #### How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade : Only the 9th grade score was affected. All of the other grades (10th, 11th, and 12th) had no impact. Previously the math and reading scores for the 9th graders at THS was 85.6% but then this went down to null after the removal. The overall passing scores for 9th graders among the district consequently also went down.
 * Scores by school spending : THS is in the range of $631 - $645 spent per student. Before the removal the overall percent passing for this spending range was 62.85%. After the removal, the score for that category went up to 66.0%.
